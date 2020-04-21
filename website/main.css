@@ -1,0 +1,185 @@
+#grad{
+	position:absolute;
+	 background: rgba(76, 175, 80, 0.3) ;
+	top:0px;
+	left:0px;
+	height:100px;
+	width:100%;
+	
+}
+h1{
+	position:absolute;
+	font-size:500;
+	left:550px;
+	top:30px;
+	font-family:cursive;
+	
+}
+#port{
+	position:absolute;
+	font-size:30px;
+	font-family:Lucida Console;
+	color:white;
+	left:15px;
+	top:15px;
+	padding:5px;
+	border:5px solid white;
+
+}
+#website{
+	background:url(pic1.jpg);
+	background-size:auto;
+	
+	
+	
+	
+}
+#intro{
+	font-size:30px;
+	position:absolute;
+	left:300px;
+	top:175px;
+	font-family:Courier New;
+	color:white;
+	font-weight:bold;
+}
+#int1{
+	position:absolute;
+	top:110px;
+	left:300px;
+	font-size:35px;
+	font-family:Arial;
+	text-decoration:underline;
+	color:white;
+}
+#Sap{
+	position:relative;
+	top:100px;
+}
+#contact{
+	
+	position:absolute;
+	font-size:25px;
+	font-family:Courier New;
+	left:850px;
+	top:60px;
+	
+}
+#achivements{
+	position:absolute;
+	font-size:25px;
+	font-family:Courier New;
+	left:1018px;
+	top:60px;
+	
+}
+#aboutme{
+	position:absolute;
+	font-size:25px;
+	font-family:Courier New;
+	left:1215px;
+	top:60px;
+}	
+#home{
+	position:absolute;
+	font-size:25px;
+	font-family:Courier New;
+	left:445px;
+	top:60px;
+}	
+	
+	
+#top:link, #top:visited {
+  background-color:rgba(76, 175, 80, 0.3);
+  color: white;
+  padding:5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+ #top:hover,#top:active {
+  background-color:grey;
+}
+#contactme{
+	background:url(contactme.jpg);
+	background-size:auto;
+}
+#fb{
+	position:relative;
+	top:150px;
+	left:100px;
+	border:5px solid white;	
+	padding:5px;
+	
+}
+#fb:hover,#fb:active{
+	background-color:grey;
+}
+#insta{
+	position:relative;
+	top:150px;
+	left:950px;
+	border:5px solid white;	
+	padding:5px;
+}
+#insta:hover,#insta:active{
+	background-color:grey;
+}
+#ln{
+	position:relative;
+	top:500px;
+	left:-195px;
+	border:5px solid white;	
+	padding:5px;
+}
+#ln:hover,#ln:active{
+	background-color:grey;
+}
+#gmail{
+	position:relative;
+	top:500px;
+	left:670px;
+	border:5px solid white;	
+	padding:5px;
+}
+#gmail:hover,#gmail:active{
+	background-color:grey;
+}
+#achieve{
+	background:url(pic2.jpg);
+	background-size:auto;
+}
+#des{
+	font-size:30px;
+	position:absolute;
+	left:300px;
+	top:175px;
+	font-family:Courier New;
+	color:white;
+	font-weight:bold;
+}
+#const{
+	font-size:50px;
+	position:absolute;
+	left:350px;
+	top:350px;
+	font-family:Comic Sans MS;
+	color:red;
+	font-weight:bold;
+	
+}
+#about{
+	background:url(pic3.jpg);
+	background-size:auto;
+}
+#cpy{
+	position:absolute;
+	font-size:20px;
+	top:675px;
+	left:645px;
+	color:white;
+}
+	
+	
+	
